@@ -1,6 +1,6 @@
 body {
   	background-color:#E6E6E6;
-  	font-size: 62.5%;	
+  	font-size: 100%;	
   	margin: 0 auto;
   	max-width: 767px;
   	width: 90%;
@@ -9,7 +9,7 @@ body {
 
 .logo {
 	font-family: helvetica, arial;
-	font-size: 4.0em;
+	font-size: 2.0em;
 	margin-top: 80px;
 
 }
@@ -28,7 +28,7 @@ body {
 
 .box ul,p {
 	font-family: "freight-text-pro",Georgia,Cambria,"Times New Roman",Times,serif;	
-	font-size: 2.5em;
+	font-size: 1.2em;
     font-style: normal;
     font-weight: 400;
     letter-spacing: .01rem;
