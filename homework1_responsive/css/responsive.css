@@ -11,6 +11,6 @@ and (min-device-width : 375px)
 and (max-device-width : 667px) 
 and (orientation : portrait) { 
 	img{
-		width: 600px;
+		width: 1000px;
 	}
 }
