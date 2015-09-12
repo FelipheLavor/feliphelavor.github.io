@@ -5,6 +5,35 @@
   margin:0;
 }
 
+body {
+	color: #000;
+	font-size: 20px;
+	line-height: 1.4;
+	font-family: 'Open Sans', sans-serif;
+	background-color: #ffffff;
+	font-weight: 300;
+}
+
+.header{
+	background-color: #033048;
+	display: flex;	
+	flex-direction: column;
+	align-items:center;	
+	padding:20px;
+}
+
+.logo{
+	color: #ffffff;
+}
+
+.header a{
+	color: #f9e42e;
+	margin-left: 10px;
+	text-decoration: none;
+	font-size: 20px;
+	font-weight: 300; 	
+}
+
 article img{
 	width:375px;
 }
