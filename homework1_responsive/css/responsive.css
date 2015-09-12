@@ -6,7 +6,8 @@
 }
 
 img {
-	width:375px;
+/*	width:375px;*/
+max-width: 100%;
 }
 
 
