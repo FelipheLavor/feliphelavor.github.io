@@ -50,12 +50,10 @@ body {
 }
 
 article{
-  	padding:.75rem 1rem 2.5rem 1rem;
-  	clear:both;
-  	background-color: white;
-  	box-shadow:0 1px 2px #aaa;
-  	margin-bottom: 10px;
-  	border-radius:3px;  
+	padding:.75rem 1rem 2.5rem 1rem;	
+	clear:both;
+	margin-bottom: 10px;
+  	background-color: white;	
 }
 
 article h1{
@@ -75,8 +73,12 @@ article a{
 	margin: 10px 0 20px 0	;
 }
 
-.ad{
-	clear:both;
+.editorial{
+  	box-shadow:0 1px 2px #aaa;
+  	border-radius:3px;  
+}
+
+.ad{	
  	background-color: white;
  	text-align: center;
 }
