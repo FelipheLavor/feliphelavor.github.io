@@ -8,7 +8,7 @@
 
 body {
 	color: #000;
-	font-size: 50px;
+	font-size: 30px;
 	line-height: 1.4;
 	font-family: 'Open Sans', sans-serif;
 	background-color: #ffffff;
@@ -39,15 +39,15 @@ body {
 
 .content-container{
 	padding:15px;
-	background-color: #f0efef;  	
+	background-color: #E6E6E6;  	
 }
 
 article{
-  padding-bottom: 70px;
-  padding-top: 20px;
+  padding: 20px 20px 70px 20px;
   clear:both;
   border-bottom: 1px solid #ABABAB; 
   background-color: white;
+  box-shadow: 4px 3px 8px #AAAAAA;margin-bottom: 20px;
 }
 
 article h1{
