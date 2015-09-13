@@ -94,12 +94,34 @@ article a{
 }
 
 .cta .button{
-  background-color:#01173B; 
-  color:#ffffff; 
-  display:inline-block; 
-  font-weight: 600;
-  padding:10px 60px;
-  border-radius: 5px;      
+ 	background-color:#01173B; 
+ 	color:#ffffff; 
+ 	display:inline-block; 
+ 	font-weight: 600;
+ 	padding:10px 60px;
+ 	border-radius: 5px;      
+}
+
+.footer{
+ 	background-color: #222222;
+ 	text-align: center;
+ 	height: 100%;
+ 	padding:15px;
+}
+
+.footer h1{
+ 	color:#F8E131;
+ 	margin:0px;
+ 	padding: 20px;
+}
+
+.footer img{
+ 	padding:20px;
+}
+
+.footer p{
+ 	color: #ffffff;
+ 	padding:20px;  
 }
 
 
