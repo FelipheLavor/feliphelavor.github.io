@@ -82,9 +82,24 @@ article a{
 }
 
 .ad{	
+	padding:1rem 1rem 1rem 1rem;	
  	background-color:#cdcdcd;
  	text-align: center;
- 	padding:auto;
+}
+
+.cta{
+	padding:1rem 1rem 1rem 1rem;		
+ 	background-color: #f9e42e;
+ 	text-align: center;
+}
+
+.cta .button{
+  background-color:#01173B; 
+  color:#ffffff; 
+  display:inline-block; 
+  font-weight: 600;
+  padding:10px 60px;
+  border-radius: 5px;      
 }
 
 
