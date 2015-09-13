@@ -8,7 +8,7 @@
 
 body {
 	color: #000;
-	font-size: 20px;
+	font-size: 15px;
 	line-height: 1.4;
 	font-family: 'Open Sans', sans-serif;
 	background-color: #ffffff;
@@ -38,7 +38,7 @@ body {
 }
 
 .content-container{
-	padding:15px;
+	padding:10px;
 	background-color: #E6E6E6;  	
 }
 
