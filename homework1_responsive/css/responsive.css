@@ -51,8 +51,7 @@ body {
 article{
 	padding:.75rem 1rem 2.5rem 1rem;	
 	clear:both;
-	margin-bottom: 10px;
-  	background-color: white;	
+	margin-bottom: 10px;	
 }
 
 article h1{
@@ -75,10 +74,15 @@ article a{
 .editorial{
   	box-shadow:0 1px 2px #aaa;
   	border-radius:3px;  
+  	background-color: white; 	
+}
+
+.extra-info{
+
 }
 
 .ad{	
- 	background-color: white;
+ 	background-color:#cdcdcd;
  	text-align: center;
 }
 
