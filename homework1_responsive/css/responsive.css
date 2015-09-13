@@ -43,16 +43,18 @@ body {
 }
 
 article{
-  padding: 10px 10px 30px 10px;
+  padding:.75rem 1rem 1.5rem 1rem;
   clear:both;
   background-color: white;
-  box-shadow: 4px 3px 8px #AAAAAA;
+  box-shadow:0 1px 2px #aaa;
   margin-bottom: 10px;
+  border-radius:3px;  
 }
 
 article h1{
 	margin-bottom: 10px;
 	font-size:1.4em;
+	font-weight: 300;
 }
 
 article img{
