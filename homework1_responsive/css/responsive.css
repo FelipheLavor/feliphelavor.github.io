@@ -48,8 +48,7 @@ body {
 	padding:10px; 	
 }
 
-article{
-	padding:.75rem 1rem 2.5rem 1rem;	
+article{	
 	clear:both;
 	margin-bottom: 10px;	
 }
@@ -72,18 +71,20 @@ article a{
 }
 
 .editorial{
+	padding:.75rem 1rem 2.5rem 1rem;	
   	box-shadow:0 1px 2px #aaa;
   	border-radius:3px;  
   	background-color: white; 	
 }
 
 .extra-info{
-
+	padding:.75rem 1rem 1rem 1rem;	
 }
 
 .ad{	
  	background-color:#cdcdcd;
  	text-align: center;
+ 	padding:auto;
 }
 
 
